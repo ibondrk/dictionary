@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ae14df7e-f2fd-41ec-82ca-39cddc87f49e"
+      }
+    },
+    "owner": "bondrk"
   }
 }
